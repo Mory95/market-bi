@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260731702107",
+    "project_id": "market-bi-598da",
+    "storage_bucket": "market-bi-598da.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260731702107:android:cca679ac0b40cf3e66e87e",
+        "android_client_info": {
+          "package_name": "com.example.market_bi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260731702107-mqvl441d7kcen5qa381t74sgk7p90b92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpMKYNvhNuOjkdFyuZKoh9UQK2KAb7XT0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260731702107-mqvl441d7kcen5qa381t74sgk7p90b92.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
